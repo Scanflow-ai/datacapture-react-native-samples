@@ -1,0 +1,6 @@
+<svg width="290" height="290" viewBox="0 0 290 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 34V16C2 8.26801 8.26801 2 16 2H34" stroke="#2256DE" stroke-width="4"/>
+<path d="M288 34V16C288 8.26801 281.732 2 274 2H256" stroke="#FF543E" stroke-width="4"/>
+<path d="M34 288H16C8.26801 288 2 281.732 2 274L2 256" stroke="#FFAF4D" stroke-width="4"/>
+<path d="M256 288H274C281.732 288 288 281.732 288 274V256" stroke="#3098F1" stroke-width="4"/>
+</svg>
